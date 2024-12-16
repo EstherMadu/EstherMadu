@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Esther Maduabuchi
 =========================================================================================================================================
 
-Junior Frontend Develper
+Fullstack Developer
 ------------------------
 
-I am a self-thought developer, learning to code with Javascript and React. I am learning to make amazing things as a software developer and the journey has been amazing. I love singing and occasionally dancing. I would love to travel the world in the nearest future.
+I am a full-stack developer with proficiency in Python Flask, Javascript, Bootstrap and Tailwind. I love singing and occasionally dancing. I would love to travel the world in the nearest future.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [esther.nmaduabuchi@gmail.com](mailto:esther.nmaduabuchi@gmail.com)
-* 🧠  I'm learning React, Python
+* 🧠  Core: Python Flask Bootstrap Tailwind 
 * 🤝  I'm open to collaborating on interesting projects that will help me learn and grow.
 
 ### Skills
